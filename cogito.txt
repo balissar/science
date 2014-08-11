@@ -2,5 +2,10 @@ Cogito ergo sum
 And so on
 hello
 today we are learning about computers and how to use them
+<<<<<<< HEAD
 more blah blah blah
 hippopotamous
+=======
+blah blah blah
+
+>>>>>>> testing
